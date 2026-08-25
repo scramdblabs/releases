@@ -1,7 +1,9 @@
 {
   "schema": 1,
-  "default": "",
+  "default": "8662818",
   "stable": "",
-  "builds": [],
+  "builds": [
+    "8662818"
+  ],
   "versions": []
 }
