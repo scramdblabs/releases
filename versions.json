@@ -1,8 +1,9 @@
 {
   "schema": 1,
-  "default": "4e4a692",
+  "default": "d1c8895",
   "stable": "",
   "builds": [
+    "d1c8895",
     "4e4a692",
     "44837c8",
     "acf62c0",
